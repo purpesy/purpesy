@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado po
 ## 🖊️ Sobre Mim
 - 🎓 Desenvolvedor Fullstack, com 17 anos, desenvolvendo habilidades em **frontend** e **backend**.
 - 🚀 Focado em aprender e compartilhar projetos no GitHub enquanto construo meu portfólio.
-- 📚 No momento, explorando o universo de **NodeJS** e **Banco de Dados**.
+- 📚 No momento, explorando o universo de **NodeJS** e **PHP**.
 
 ## 🛠️ Tecnologias e Ferramentas
 ### Linguagens
@@ -14,11 +14,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado po
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=flat)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=000&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
 ---
 
