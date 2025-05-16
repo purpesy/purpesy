@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Lucas!
 
-Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado por criar soluções práticas e elegantes, sempre explorando novas tecnologias e desafios no mundo da programação.
+Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado por APIs, Banco de dados e Desenvolvimento WEB.
 
 ## 🖊️ Sobre Mim
-- 🎓 Desenvolvedor Fullstack, com 17 anos, desenvolvendo habilidades em **frontend** e **backend**.
+- 🎓 Desenvolvedor Fullstack, com 18 anos, desenvolvendo habilidades em **frontend** e **backend**.
 - 🚀 Focado em aprender e compartilhar projetos no GitHub enquanto construo meu portfólio.
 - 📚 No momento, explorando o universo de **NodeJS** e **PHP**.
 
