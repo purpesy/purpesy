@@ -19,8 +19,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado po
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=000&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
 ---
 
