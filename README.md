@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas!Add commentMore actions
+# 👋 Olá, eu sou o Lucas!
 
 Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado por APIs, Banco de dados e Desenvolvimento WEB.
 
