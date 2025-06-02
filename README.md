@@ -27,3 +27,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado po
 - **LinkedIn**: [Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-5301b2331)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purpesy/purpesy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/purpesy/purpesy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/purpesy/purpesy/output/github-contribution-grid-snake.svg">
+</picture>
