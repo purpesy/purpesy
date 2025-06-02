@@ -28,8 +28,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado po
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purpesy/purpesy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/purpesy/purpesy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/purpesy/purpesy/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/purpesy/purpesy/blob/output/github-contribution-grid-snake.gif)
